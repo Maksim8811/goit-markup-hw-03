@@ -329,7 +329,7 @@ body {
 
 .footer {
   background-color: #2f303a;
-  margin-top: 64px;
+  margin-top: 0;
 }
 .logo-name-footer {
   font-family: var(--text-logo);
